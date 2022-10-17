@@ -7,6 +7,10 @@
     "workspaceFolder": "/workspace",
     "postCreateCommand": "",
     "extensions": [
+        // Python
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        // LaTeX
         "james-yu.latex-workshop",
         // Git
         "eamodio.gitlens",
